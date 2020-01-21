@@ -16,4 +16,4 @@ blah blah
 
 ## H3 header
 
-[this is a link to google calendar](https://google.com/calendar)
+[this is a link to google](https://google.com)
