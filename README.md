@@ -3,13 +3,17 @@ this is just a test
 
 ---
 
-## H2 header 1
+## H2 header A
 
 blah blah
 
-## H2 header 2
+## H2 header B
 
 - this
 - is
 - a
 - list
+
+## H3 header
+
+[this is a link to google](https://google.com)
